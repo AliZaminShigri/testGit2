@@ -10,6 +10,6 @@ print("Sub      obt marks       total")
 print("----------------------------")
 print("eng      ",eng,"     100")
 print("math      ",math,"     100")
-print("physics      ",physics,"     100")
+print("physics      ",physics,"        100", average)
 
 #a change in branch check
